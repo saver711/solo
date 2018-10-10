@@ -1,0 +1,309 @@
+@media (min-width: 1200px) and (max-width: 1299.99px) {
+  .site-nav-wrapper {
+    padding: 0 2rem; } }
+
+.tab-bg {
+  background: #aaa !important; }
+
+@media (min-width: 992px) and (max-width: 1199.99px) {
+  .site-nav-wrapper {
+    padding: 0; }
+  .vertical-heading h2 {
+    font-size: 2.9rem; }
+  #services-tabs .tab-bg {
+    padding: 1.6rem 3rem; }
+  .service-tab p {
+    line-height: 22.9999991px; } }
+
+@media (min-width: 768px) and (max-width: 991.99px) {
+  .site-nav-wrapper {
+    padding: 0; }
+  #home-heading h1 {
+    font-size: 4.1rem; }
+  #home-text p {
+    font-size: 1.3rem; }
+  .btn-general {
+    padding: .8rem 3.5rem;
+    font-size: 1rem; }
+  .vertical-heading h2 {
+    font-size: 2.9rem; }
+  #tech-statement h3 {
+    font-size: 2rem;
+    line-height: 30px; }
+  .service-tab .row {
+    display: block; }
+    .service-tab .row .col-md-6:nth-of-type(1) img {
+      width: 100%; }
+  .r-tabs-accordion-title {
+    text-align: center;
+    margin-bottom: 1rem; }
+    .r-tabs-accordion-title a {
+      font-family: "Ralewat", sans-serif;
+      font-size: 1.3rem;
+      color: #212226;
+      text-transform: uppercase;
+      font-weight: 400;
+      padding: 0;
+      text-decoration: none; }
+    .r-tabs-accordion-title.r-tabs-state-active a {
+      color: #f4c613;
+      font-weight: 700;
+      border-bottom: 3px solid #f4c613;
+      padding-bottom: 5px;
+      transition: border-color 300ms linear; }
+  .pricing-table .price h2 {
+    font-size: 3.5rem;
+    margin: 0 0 0 6px; }
+  #stats .vertical-heading h5 {
+    left: -45px; }
+  .blog-post .post-meta p {
+    line-height: 14px; }
+  #contact-left ul.office-details li {
+    margin-right: 1.5rem; }
+    #contact-left ul.office-details li i {
+      width: 2.5rem !important; }
+  .stats-item p {
+    line-height: 18px; } }
+
+#testimonial-slider {
+  max-height: 40rem;
+  position: relative; }
+  #testimonial-slider .owl-nav {
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%); }
+
+@media (max-width: 767.99px) {
+  #home-heading h1 {
+    font-size: 2.2rem;
+    line-height: 1px; }
+  #home-text p {
+    font-size: 1.3rem;
+    line-height: 18px;
+    margin: 8px 2px 30px; }
+  .btn-general {
+    padding: .8rem 2.5rem 6px;
+    font-size: 1rem; }
+  .content-box-lg {
+    padding: 9rem 0; }
+  .content-box-md {
+    padding: 8rem 0; }
+  .vertical-heading {
+    text-align: center; }
+    .vertical-heading h5 {
+      transform: rotate(0);
+      display: block;
+      position: static;
+      margin-bottom: 15px; }
+    .vertical-heading h2 {
+      font-size: 2.9rem;
+      line-height: normal;
+      margin: 0; }
+  #about-left {
+    margin-bottom: 5rem; }
+    #about-left .vertical-heading {
+      min-height: 13rem; }
+  #about-right {
+    text-align: center; }
+  .about-item {
+    padding: 5.5rem 3rem;
+    margin-bottom: 3.5rem; }
+    .about-item i {
+      font-size: 3rem; }
+    .about-item h3 {
+      font-size: 1.8rem; }
+  .skill h4 {
+    font-size: 1.4rem;
+    line-height: 35px; }
+  #tech-statement h3 {
+    font-size: 2rem;
+    line-height: 30px; }
+  .horizontal-heading {
+    margin-bottom: 4rem; }
+    .horizontal-heading h2 {
+      font-size: 3rem; }
+  #services-01 img {
+    margin: 3.5rem 0; }
+  .service, .service .icon {
+    text-align: center; }
+  .service h4 {
+    font-size: 1.8rem; }
+  .r-tabs-accordion-title {
+    text-align: center;
+    margin-bottom: 1rem; }
+    .r-tabs-accordion-title a {
+      font-family: "Ralewat", sans-serif;
+      font-size: 1.3rem;
+      color: #212226;
+      text-transform: uppercase;
+      font-weight: 400;
+      padding: 0;
+      text-decoration: none; }
+    .r-tabs-accordion-title.r-tabs-state-active a {
+      color: #f4c613;
+      font-weight: 700;
+      border-bottom: 3px solid #f4c613;
+      padding-bottom: 5px;
+      transition: border-color 300ms linear; }
+  .service-tab .row {
+    display: block; }
+    .service-tab .row .col-md-6:nth-of-type(1) img {
+      width: 100%; }
+  #services-tabs .tab-bg {
+    text-align: center;
+    padding: 4rem 3rem; }
+  #services-tabs h2 {
+    font-size: 4rem; }
+  #services-tabs h3 {
+    font-size: 2.8rem; }
+  #portfolio {
+    padding-bottom: 0; }
+  #isotope-filters {
+    padding: 0 1rem 2rem !important; }
+    #isotope-filters button {
+      padding-right: 1.5rem; }
+  #testimonials {
+    padding-top: 4.5rem; }
+    #testimonials .vertical-heading {
+      padding: 0; }
+  #testimonial-slider {
+    top: 0;
+    max-height: none;
+    padding: 2rem 0 3rem; }
+  .testimonial .row {
+    margin: 0; }
+  .testimonial h3 {
+    font-size: 2rem; }
+  .testimonial .stars {
+    font-size: 1.5rem; }
+  .author img {
+    width: 8rem !important; }
+  .pricing-table {
+    margin-bottom: 3rem; }
+    .pricing-table .price h2 {
+      font-size: 2.8rem;
+      margin: 0 0 0 16px; }
+  .stats-item {
+    margin-bottom: 2rem;
+    padding: 2.5rem 5px; }
+    .stats-item i {
+      font-size: 3rem; }
+    .stats-item h3 {
+      font-size: 2.4rem; }
+  #blog-left {
+    text-align: center;
+    margin-bottom: 3rem; }
+  .blog-post {
+    margin-bottom: 2.5rem; }
+  #contact-left {
+    text-align: center; }
+  .office {
+    margin-bottom: 4rem; }
+  ul.office-details li {
+    display: block;
+    margin-top: 2.5rem; }
+    ul.office-details li i {
+      width: auto;
+      display: block;
+      margin-bottom: 3px; }
+  ul.social-list {
+    margin-bottom: 4rem; }
+  #mobile-nav-open-btn {
+    display: block !important; }
+  .site-nav-wrapper, .white-nav-top {
+    padding: 0; }
+  .navbar {
+    padding: 2rem 0; } }
+
+@media (max-width: 480px) {
+  #home-heading h1 {
+    font-size: 1.8rem;
+    line-height: 0; }
+  #home-text p {
+    font-size: 1.1rem;
+    line-height: 16px;
+    margin: 8px 10px 25px 10px; }
+  .vertical-heading h2 {
+    font-size: 2.2rem; }
+  #isotope-filters {
+    text-align: center; }
+    #isotope-filters button {
+      font-size: 1.4rem;
+      padding-right: 1.4rem; }
+  .testimonial h3 {
+    font-size: 1.4rem;
+    line-height: 18px; }
+  .testimonial .stars {
+    font-size: 1.3rem; } }
+
+@media (max-width: 320px) {
+  .testimonial h3 {
+    font-size: 1.2rem;
+    line-height: 16px; }
+  .testimonial .stars {
+    font-size: 1rem; } }
+
+.navbar-header {
+  position: relative; }
+
+#mobile-nav-open-btn {
+  font-size: 3rem;
+  color: #f4c613;
+  cursor: pointer;
+  z-index: 2;
+  position: absolute;
+  right: 0;
+  top: 6px;
+  display: none; }
+
+#mobile-nav {
+  width: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 3;
+  background-color: rgba(255, 255, 255, 0.9);
+  transition: all 300ms linear;
+  overflow-y: hidden; }
+
+#mobile-nav-close-btn {
+  font-family: "Raleway", sans-serif;
+  font-size: 7rem;
+  color: #212226;
+  font-weight: 400;
+  cursor: pointer;
+  position: absolute;
+  top: -9px;
+  right: 13px;
+  transition: .3s; }
+  #mobile-nav-close-btn:hover, #mobile-nav-close-btn:focus {
+    color: #f4c613;
+    background: none; }
+
+#mobile-nav-content {
+  top: 10%;
+  text-align: center;
+  width: 100%;
+  margin-top: 3rem;
+  position: relative; }
+
+#mobile-nav {
+  height: 0; }
+  #mobile-nav ul li {
+    margin-bottom: 2rem; }
+    #mobile-nav ul li a {
+      font-family: "Raleway", sans-serif;
+      font-size: 1.8rem;
+      text-transform: uppercase;
+      font-weight: 400;
+      color: #212226;
+      display: inline;
+      transition: .3s; }
+      #mobile-nav ul li a:hover, #mobile-nav ul li a:focus {
+        color: #f4c613;
+        background: none; }
+
+.white-nav-top #mobile-nav ul.nav > li.active > a {
+  color: #f4c613;
+  font-weight: 500; }
